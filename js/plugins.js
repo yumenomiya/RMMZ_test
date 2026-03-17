@@ -70,6 +70,6 @@ var $plugins =
 {"name":"PriorityOnly","status":true,"description":"[v1.0] ステータス無視！タグ優先度だけで行動順をソートします","parameters":{}},
 {"name":"BarrierFormula","status":false,"description":"バリア機能拡張：吸収・貫通・上限・係数・上書き対応＋サイドビュー表示（#1e90ff）","parameters":{"DefaultBarrierLimit":"a.mhp*10000"}},
 {"name":"CharacterPopupDamage","status":false,"description":"キャラクターのダメージポッププラグイン","parameters":{"PlaySe":"true","SuppressSwitchId":"0","OffsetX":"0","OffsetY":"0","HpAutoPop":"true","MpAutoPop":"true","TpAutoPop":"true","IncreaseAutoPop":"true","DecreaseAutoPop":"true","DisableAutoPop":"0","MpDamageSe":"","Rotation":"false","RadiusX":"40","RadiusY":"40","RotateSpeed":"60","Scale":"100","ScaleDelta":"0","OnTop":"false"}},
-{"name":"ShieldSystem","status":true,"description":"Shield System v1.0.2","parameters":{"Default Shield Max":"a.level * 60","Shield Gauge Color":"#1e90ff","Shield Popup Color":"#1e90ff"}},
+{"name":"ShieldSystem","status":true,"description":"Shield System v1.0.2","parameters":{"Default Shield Max":"a.level * 30","Shield Gauge Color":"#1e90ff","Shield Popup Color":"#1e90ff"}},
 {"name":"ShieldSystem_v10","status":false,"description":"Shield System v1.0.2","parameters":{"Default Shield Max":"a.mhp","Shield Gauge Color":"#1e90ff","Shield Popup Color":"#1e90ff"}}
 ];
